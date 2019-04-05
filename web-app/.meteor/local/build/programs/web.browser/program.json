@@ -698,20 +698,20 @@
       "hash": "a886784fa7e03ed985706d5c3dd965ea39da53da"
     },
     {
-      "path": "app/images/favicon.ico",
+      "path": "app/images/clm_icon.ico",
       "where": "client",
       "type": "asset",
       "cacheable": false,
-      "url": "/images/favicon.ico",
+      "url": "/images/clm_icon.ico",
       "size": 574,
       "hash": "b034298b64ba3dc6070e25e80ee6e6a75de779d8"
     },
     {
-      "path": "app/images/favicon.png",
+      "path": "app/images/clm_icon.ico",
       "where": "client",
       "type": "asset",
       "cacheable": false,
-      "url": "/images/favicon.png",
+      "url": "/images/clm_icon.ico",
       "size": 574,
       "hash": "b034298b64ba3dc6070e25e80ee6e6a75de779d8"
     },
