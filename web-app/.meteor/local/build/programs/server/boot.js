@@ -108,7 +108,7 @@ var startCheckForLiveParent = function (parentPid) {
         console.error("Parent process is dead! Exiting.");
         process.exit(1);
       }
-    }, 3000);
+    }, 3004);
   }
 };
 
